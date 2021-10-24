@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "S4_BuildingEscape",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "/Users/Shared/Epic Games/UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"/Users/andraghetti/unrealcourse/S4_BuildingEscape/Intermediate/Build/Mac/x86_64/UE4Editor/Development/S4_BuildingEscape/Definitions.S4_BuildingEscape.h",
+			"/Users/andraghetti/unrealcourse/S4_BuildingEscape/Intermediate/Build/Mac/x86_64/S4_BuildingEscapeEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}
