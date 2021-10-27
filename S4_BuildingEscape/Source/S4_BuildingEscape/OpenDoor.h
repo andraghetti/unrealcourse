@@ -27,7 +27,6 @@ public:
 
 private:
 	float ClosedDoorYaw;
-	UPROPERTY(EditAnywhere) bool OpenDoorTowardsInside = true;
 	UPROPERTY(EditAnywhere) float OpenDoorAngle = 90.f;
 	UPROPERTY(EditAnywhere) float DoorClosingSpeed = 2.f;
 	UPROPERTY(EditAnywhere) float DoorCloseDelaySeconds = 2.f;
