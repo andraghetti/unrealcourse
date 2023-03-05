@@ -1,0 +1,47 @@
+[
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/CryptRaider.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/CryptRaider.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/CryptRaiderCharacter.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/CryptRaiderCharacter.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/CryptRaiderGameMode.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/CryptRaiderGameMode.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/CryptRaiderProjectile.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/CryptRaiderProjectile.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/Grabber.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/Grabber.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/Mover.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/Mover.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/TP_PickUpComponent.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/TP_PickUpComponent.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/TP_WeaponComponent.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/TP_WeaponComponent.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/land/Documents/CryptRaider/CryptRaider/Source/CryptRaider/TriggerComponent.cpp",
+		"command": "\"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++\" @\"/Users/land/Documents/CryptRaider/CryptRaider/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/CryptRaider/TriggerComponent.cpp.o.response.gcd\"",
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	}
+]
